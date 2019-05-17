@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "name": "Join github!",
+        "image": "images/github.jpg",
+        "url": "https://github.com/join"
+    },
+    {
+        "id": 1,
+        "name": "Creating a Github Organization",
+        "image": "images/github.jpg",
+        "url": "/organization/"
+    },
+     {
+        "id": 2,
+        "name": "Connecting Github Classroom",
+        "image": "images/classroom.jpg",
+        "url": "/classroom/"
+    }, 
+    {
+        "id": 3,
+        "name": "Creating Assignments",
+        "image": "images/classroom-assignment.PNG",
+        "url": "/assignments/"
+    },
+    {
+        "id": 4,
+        "name": "Try Out Assignments",
+        "image": "images/assignment-ind-or-grp.PNG",
+        "url": "/try-assignments/"
+    }, 
+    {
+        "id": 5,
+        "name": "Additional Resources",
+        "image": "images/additional-resources.jpg",
+        "url": "/additional-resources/"
+    }
+    
+]
